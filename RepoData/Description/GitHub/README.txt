@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎚️🪄️🌐️ The official source repository for the website of The SlideXMagic project, a software LIBrary for uploading presentation/slideshow files as image previews for online addon and content stores. Inspired by addons.mozilla.org
