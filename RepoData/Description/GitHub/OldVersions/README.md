@@ -1,0 +1,1 @@
+🎚️🪄️🌐️ The official source repository for the website of The SlideXMagic project, a software LIBrary for uploading presentation/slideshow files as image previews for online addon and content stores. Inspired by addons.mozilla.org
